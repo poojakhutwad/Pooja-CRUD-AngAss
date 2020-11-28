@@ -1,0 +1,26 @@
+table {
+    width: 100%;
+  }
+  
+  .mat-form-field {
+    font-size: 14px;
+    width: 100%;
+  }
+  
+  td, th {
+    width: 15%;
+  }
+
+  .progress-bar {    
+    height: 20px;
+    width: 0;
+ }
+ .progress-bar.green {
+    background-color: green;
+ }
+ .progress-bar.yellow {
+    background-color: yellow;
+ }
+ .progress-bar.red {
+    background-color: red;
+ }
